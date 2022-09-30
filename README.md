@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexiaBerlin
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me here.
 
