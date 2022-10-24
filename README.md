@@ -16,5 +16,3 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" height="130"  weight="100" />
 </a>
 
-
-[![alexiaberlin](https://github-readme-stats.vercel.app/api/pin/?username=alexiaberlin&repo=alexiaberlin&show_owner=true)](https://github.com/alexiaberlin)
