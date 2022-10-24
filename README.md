@@ -12,9 +12,6 @@ I live in Germany and I do Development and Design from APP and WEB. I really enj
  * Angular
  * React
 
-🔭 I’m currently working on www.camposwebs.com 
-🌱 I’m currently learning PHP, JavaScript and MySql
-
 ## Work Experience
 
 
