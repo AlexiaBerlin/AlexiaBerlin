@@ -16,4 +16,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/alexiaberlin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" height="170" />
 </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexiaberlin&repo=github-readme-stats)](https://github.com/alexiaberlin/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&exclude_repo=github-readme-stats,alexiaberlin.github.io)](https://github.com/alexiaberlin/github-readme-stats)
