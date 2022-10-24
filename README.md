@@ -8,7 +8,6 @@
 AlexiaBerlin/AlexiaBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![alexiaberlin](https://raw.githubusercontent.com/alexiaberlin/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/alexiaberlin/github-profile-summary-cards)
 
 [![alexiaberlin](https://github-readme-stats.vercel.app/api/pin/?username=alexiaberlin&repo=alexiaberlin&show_owner=true)](https://github.com/alexiaberlin)
 
