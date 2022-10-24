@@ -9,11 +9,10 @@ AlexiaBerlin/AlexiaBerlin is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![alexiaberlin](https://github-readme-stats.vercel.app/api/pin/?username=alexiaberlin&repo=alexiaberlin&show_owner=true)](https://github.com/alexiaberlin)
-
 <a href="https://github.com/alexiaberlin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BNTang&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNTang github stats"  height="130" weight="100" />
 </a>
 <a href="https://github.com/alexiaberlin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" height="130"  weight="100" />
 </a>
+[![alexiaberlin](https://github-readme-stats.vercel.app/api/pin/?username=alexiaberlin&repo=alexiaberlin&show_owner=true)](https://github.com/alexiaberlin)
