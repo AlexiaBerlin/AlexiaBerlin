@@ -9,8 +9,8 @@ AlexiaBerlin/AlexiaBerlin is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![alexiaberlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexiaberlin&show_icons=true&theme=radical)
+![alexiaberlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexiaberlin&show_icons=true&theme=radical width=480 height=170)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact)](https://github.com/alexiaberlin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact)](https://github.com/alexiaberlin/github-readme-stats width=180 height=170)
 
 
