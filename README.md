@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact&theme=material-palenight" alt="Top Langs"   />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact)](https://github.com/alexiaberlin/github-readme-stats)
