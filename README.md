@@ -3,18 +3,19 @@
 ### Hi there 👋, my name is Alexandra
 #### Developer and Designer
 I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
-https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/computer-black-blackground.jpg
 
-(https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/computer-black-blackground.jpg)
+## Skills and Experience
+ * JS 
+ * HTML
+ * CSS 
+ * WordPress
+ * Angular
+ * React
 
-Skills: JS / HTML / CSS / WordPress/ Angular
+🔭 I’m currently working on www.camposwebs.com 
+🌱 I’m currently learning PHP, JavaScript and MySql
 
-- 🔭 I’m currently working on www.camposwebs.com 
-- 🌱 I’m currently learning PHP, JavaScript and MySql
-
-
-
-
+## Work Experience
 
 
 <!---
