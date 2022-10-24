@@ -1,4 +1,4 @@
-![alt text](https://github.com/alexiaberlin/AlexiaBerlin//blob/main/background2.jpg?raw=true)
+![alt text](https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true)
 
 ### Hi there 👋, my name is Alexandra
 #### Developer and Designer
