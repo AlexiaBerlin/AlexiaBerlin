@@ -1,4 +1,4 @@
-![alt text](https://github.com/alexiaberlin/AlexiaBerlin/blob/main/computer-black-blackground.jpg?raw=true)
+![alt text](https://github.com/alexiaberlin/AlexiaBerlin//blob/main/background2.jpg?raw=true)
 
 ### Hi there 👋, my name is Alexandra
 #### Developer and Designer
