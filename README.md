@@ -1,3 +1,5 @@
+![alt text](https://github.com/alexiaberlin/AlexiaBerlin/blob/main/computer-black-blackground.jpg?raw=true)
+
 ### Hi there 👋, my name is Alexandra
 #### Developer and Designer
 I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
