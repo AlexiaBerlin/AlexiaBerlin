@@ -10,9 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Alexia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexiaberlin)](https://github.com/alexiaberlin/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BNTang&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNTang github stats" />
+![alexiaberlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexiaberlin&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact)](https://github.com/alexiaberlin/github-readme-stats)
+
+<a href="https://github.com/alexiaberlin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexiaberlin&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" />
+<a href="https://github.com/alexiaberlin/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexiaberlin&repo=convoychat" />
 </a>
