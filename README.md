@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @AlexiaBerlin
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate.
-- 📫 How to reach me here.
+### Hi there 👋, my name is Alexandra
+#### Developer and Designer
+I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
+
+Skills: JS / HTML / CSS / WordPress/ Angular
+
+- 🔭 I’m currently working on www.camposwebs.com 
+- 🌱 I’m currently learning PHP 
+
+
+
+
+
 
 <!---
 AlexiaBerlin/AlexiaBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
