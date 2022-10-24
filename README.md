@@ -1,6 +1,6 @@
 ![alt text](https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true)
-### Hi there 👋, my name is Alexandra
-#### Developer and Designer
+## Hi there 👋, my name is Alexandra
+### Developer and Designer
 I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
 
 ## Skills and Experience
@@ -37,8 +37,15 @@ You can click the Preview link to take a look at your changes.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## Programmig Languages having been working with
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-### Technology Used
+
+## Development tools
+
+
+## Operating System worked with
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 
 
