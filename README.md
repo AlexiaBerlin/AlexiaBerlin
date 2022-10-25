@@ -3,15 +3,6 @@
 ### Developer and Designer
 I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
 
-## Skills and Experience
- * JS 
- * HTML
- * CSS 
- * WordPress
- * Angular
- * React
-
-## Work Experience
 
 <!---
 AlexiaBerlin/AlexiaBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
