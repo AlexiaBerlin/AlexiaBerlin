@@ -3,7 +3,7 @@
 <img width="50%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
 </p>
 
-<h1 align="center">Hi there 👋, my name is Alexandra</h1>
+<h2 align="center">Hi there 👋, my name is Alexandra!</h2>
 
 
 ### Developer and Designer
@@ -18,6 +18,7 @@ I live in Germany and I do Development and Design from APP and WEB. I really enj
 </a>
 
 ## Development Languages
+
 <p align="center">
 <img  src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true"  >
 </p>
