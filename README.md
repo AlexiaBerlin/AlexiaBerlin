@@ -21,6 +21,10 @@ You can click the Preview link to take a look at your changes.
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+
+
 ## Development Tools
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
