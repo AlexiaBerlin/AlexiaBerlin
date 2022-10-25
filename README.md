@@ -1,5 +1,5 @@
 
-![alt text]<img width="48%" align="center" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
+<img width="60%" align="center" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
 
 ## Hi there 👋, my name is Alexandra
 
