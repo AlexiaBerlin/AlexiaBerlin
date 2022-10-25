@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-## Hi there 👋, my name is Alexandra
+ <h1>Hi there 👋, my name is Alexandra</h1>
 </p>
 
 ### Developer and Designer
