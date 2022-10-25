@@ -14,7 +14,7 @@ I live in Germany and I do Development and Design from APP and WEB. I really enj
 </a>
 
 ## Development Languages
-<img width="80%"  src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true"  >
+<img width="80%"  lenght="100%" src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true"  >
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
