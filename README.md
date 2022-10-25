@@ -1,6 +1,10 @@
-## Hi there 👋, my name is Alexandra
+
 <p align="center">
 <img width="50%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
+</p>
+
+<p align="center">
+## Hi there 👋, my name is Alexandra
 </p>
 
 ### Developer and Designer
