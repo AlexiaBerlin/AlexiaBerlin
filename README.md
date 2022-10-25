@@ -5,7 +5,7 @@
 I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexiaberlin&theme=dark" width="48%" align="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexiaberlin&theme=dark" width="48%" align="left">
 
 
 <a href="https://github.com/alexiaberlin/github-readme-stats">
