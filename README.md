@@ -17,10 +17,9 @@ I live in Germany and I do Development and Design from APP and WEB. I really enj
 Github Streaks
  </h2>
 <a href="https://github.com/alexiaberlin/github-readme-stats">
-  <img align="left" height="150em" style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=alexiaberlin&hide=prs&count_private=true&show_icons=true&theme=gotham" alt="AlexiaBerlin github stats"   />
-
+  <img align="right" height="100em" width="100%" src="https://github-readme-stats.vercel.app/api?username=alexiaberlin&hide=prs&count_private=true&show_icons=true&theme=gotham" alt="AlexiaBerlin github stats"   />
 <a href="https://github.com/alexiaberlin/github-readme-stats">
-  <img align="left" height="150em" style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact&theme=gotham" alt="Top Langs"   />
+  <img align="left" height="100em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact&theme=gotham" alt="Top Langs"   />
 </a>
 
 
