@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Alexandra
-
+<p align="center">
 <img width="50%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
-
+</p>
 ### Developer and Designer
 I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
 
