@@ -1,4 +1,7 @@
+
+https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif
 ![alt text](https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true)
+![alt text](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true)
 ## Hi there 👋, my name is Alexandra
 
 ### Developer and Designer
