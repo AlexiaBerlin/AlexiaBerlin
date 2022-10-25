@@ -17,7 +17,6 @@ I live in Germany and I do Development and Design from APP and WEB. I really enj
   <img align="left" width="47%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact&theme=gotham" alt="Top Langs"   />
 </a>
 
-## Development Languages
 
 <p align="center">
 <img  src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true"  >
@@ -28,5 +27,6 @@ I live in Germany and I do Development and Design from APP and WEB. I really enj
 
 
 ## Development Tools
+
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
