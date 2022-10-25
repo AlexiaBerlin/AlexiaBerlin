@@ -1,13 +1,12 @@
 ![alt text](https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true)
 ## Hi there 👋, my name is Alexandra
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" align="center">
+
+
 ### Developer and Designer
 I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
-
-
-<!---
-AlexiaBerlin/AlexiaBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <a href="https://github.com/alexiaberlin/github-readme-stats">
   <img align="left" width="47%" height="160px" src="https://github-readme-stats.vercel.app/api?username=alexiaberlin&hide=prs&count_private=true&show_icons=true&theme=gotham" alt="AlexiaBerlin github stats" height="180" />
@@ -19,10 +18,6 @@ You can click the Preview link to take a look at your changes.
 ## Development Languages
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-
-
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
 
 
 ## Development Tools
