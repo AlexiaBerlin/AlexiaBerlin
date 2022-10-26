@@ -1,4 +1,4 @@
-
+<h2 align="center">Hi there 👋, my name is Alexandra!</h2>
 <p align="center">
 <img width="1ßß%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
 </p>
@@ -7,8 +7,6 @@
  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" ><img src="https://img.shields.io/badge/-js-blue?logo=js&logoColor=fff" ><img src="https://img.shields.io/badge/-php-danger?logo=js&logoColor=fff" ><img src="https://img.shields.io/badge/-myslq-purple?logo=mysql&logoColor=fff" >
 <img src="https://img.shields.io/badge/-wordpress-blue?logo=wordpress&logoColor=fff" ><img src="https://img.shields.io/badge/-linux-gray?logo=linux&logoColor=fff" ><img src="https://img.shields.io/badge/-react-rose?logo=react&logoColor=fff" ><img src="https://img.shields.io/badge/-windows-yellow?logo=windons&logoColor=fff" ><img src="https://img.shields.io/badge/-c-blue?logo=c&logoColor=fff" ><img src="https://img.shields.io/badge/-c++-purple?logo=c++&logoColor=fff" >
 </p>
-<h2 align="center">Hi there 👋, my name is Alexandra!</h2>
-
 
 
 I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
