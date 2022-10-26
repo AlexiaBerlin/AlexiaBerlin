@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="50%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
+<img width="1ßß%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
 </p>
 
 <p align="center">
@@ -17,13 +17,10 @@ I live in Germany and I do Development and Design from APP and WEB. I really enj
 Github Streaks
  </h2>
 
-<a href="https://github.com/alexiaberlin/github-readme-stats">
-  <img align="left" height="100%" width="47%" src="https://github-readme-stats.vercel.app/api?username=alexiaberlin&hide=prs&count_private=true&show_icons=true&theme=gotham" alt="AlexiaBerlin github stats"   >
- <img align="right" width="47%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiaberlin&layout=compact&theme=gotham" alt="Top Langs"   >
-</a>
-
- 
- 
+<div style="display: flex; flex-direction: row;" align="center">
+ <img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api?username=AlexiaBerlin&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
+ <img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaBerlin&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+</div>
  
  
  
