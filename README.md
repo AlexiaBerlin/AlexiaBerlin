@@ -11,7 +11,8 @@
 </p>
 
 
-I live in Germany and I do Development and Design from APP and WEB. I really enjoy learning languages and Framework like JavaScript, PHP, Angular and React as well as I work on WordPress.
+
+I am a skilled web developer with a passion for creating innovative and user-friendly digital solutions, and my GitHub profile showcases my expertise in programming languages like HTML, CSS, JavaScript, and more.
 
 <h2 align="center">
 Github Streaks
