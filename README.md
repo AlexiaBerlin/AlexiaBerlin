@@ -23,11 +23,7 @@ Github Streaks
  <img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaBerlin&theme=radical&langs_count=8&layout=compact&hide_border=true" />
 </div>
  
- ## 
- 
-<p align="center">
-<img  src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/banner(1).png?raw=true"  >
-</p>
+
 
 ##
 
