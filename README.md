@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 
 <h2 align="center">Hi there 👋, my name is Alexandra!</h2>
+
+<h2 align="center"> I am a skilled web developer with a passion for creating innovative and user-friendly digital solutions, and my GitHub profile showcases my expertise in programming languages like HTML, CSS, JavaScript, and more.
+</h2>
+
 <p align="center">
 <img width="1ßß%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
 </p>
@@ -10,9 +14,6 @@
 <img src="https://img.shields.io/badge/-wordpress-blue?logo=wordpress&logoColor=fff" ><img src="https://img.shields.io/badge/-linux-gray?logo=linux&logoColor=fff" ><img src="https://img.shields.io/badge/-react-rose?logo=react&logoColor=fff" ><img src="https://img.shields.io/badge/-windows-yellow?logo=windons&logoColor=fff" ><img src="https://img.shields.io/badge/-c-blue?logo=c&logoColor=fff" ><img src="https://img.shields.io/badge/-c++-purple?logo=c++&logoColor=fff" >
 </p>
 
-
-
-I am a skilled web developer with a passion for creating innovative and user-friendly digital solutions, and my GitHub profile showcases my expertise in programming languages like HTML, CSS, JavaScript, and more.
 
 <h2 align="center">
 Github Streaks
