@@ -16,9 +16,6 @@
 - ⚡ Fun fact **I think I am funny**
 </p>
 
-<p align="center">
-<img width="50%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
-</p>
 
 <h3 align="center">Connect with me:</h3>
 
