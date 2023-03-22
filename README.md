@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-<img width="1ßß%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
+<img width="50%"  src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif?raw=true"  >
 </p>
 
 <p align="center">
