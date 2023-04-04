@@ -9,8 +9,10 @@
 </p>
 
 <h3 align="center">A passionate Full Stack Developer</h3>
-<p align="center">
 <br>
+
+<p align="center">
+
 - 🔭 I’m currently graduated from **Le Wagon Full Stack Web Developer Bootcamp**
 
 - 🌱 I’m currently learning **JavaScript**
@@ -21,7 +23,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-
+</p>
 
 <h3 align="center">Connect with me:</h3>
 
