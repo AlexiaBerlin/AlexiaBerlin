@@ -10,7 +10,7 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">
-
+<br>
 - 🔭 I’m currently graduated from **Le Wagon Full Stack Web Developer Bootcamp**
 
 - 🌱 I’m currently learning **JavaScript**
