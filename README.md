@@ -14,9 +14,9 @@
 - 📫 How to reach me **alexandra.campos@gmx.de**
 
 - ⚡ Fun fact **I think I am funny**
-
-<img src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/me_coding.gif" width="256" align="center" />
-
+<p align="center">
+<img src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/me_coding.gif" width="256" />
+</p>
 
 
 <h3 align="center">Connect with me:</h3>
