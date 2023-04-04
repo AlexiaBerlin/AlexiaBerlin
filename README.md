@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<img src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/me_coding.gif" width="256" />
+<img src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/me_coding.gif" width="256" align="center" />
 
 
 
