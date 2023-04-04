@@ -43,7 +43,7 @@ Github Streaks
 <div style="display: flex; flex-direction: row;" align="center">
  <img style="height: 209px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api?username=AlexiaBerlin&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
  
- <img style="height: 205px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaBerlin&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+ <img style="height: 200px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaBerlin&theme=radical&langs_count=8&layout=compact&hide_border=true" />
 </div>
  
 
