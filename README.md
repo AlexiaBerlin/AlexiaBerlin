@@ -1,33 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 <img
-  src="/path/to/img.jpg"
+  src="banner.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-<h2 align="center">Hi there 👋, my name is Alexandra!</h2>
-
-
-<p align="center">
-<img src="https://github.com/AlexiaBerlin/AlexiaBerlin/blob/main/me_coding.gif" width="256" />
-</p>
-
-<h3 align="center">A passionate Full Stack Developer</h3>
-<br>
-
-<p align="center">
-
-- 🔭 I’m currently graduated from **Le Wagon Full Stack Web Developer Bootcamp**
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Ruby on Rails**
-
-- 📫 How to reach me **alexandra.campos@gmx.de**
-
-- ⚡ Fun fact **I think I am funny**
-
-</p>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -53,10 +29,3 @@ Github Streaks
 
 
 ##
-
-
-
-
-
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
