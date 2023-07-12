@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
-
+<img
+  src="/path/to/img.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 <h2 align="center">Hi there 👋, my name is Alexandra!</h2>
 
